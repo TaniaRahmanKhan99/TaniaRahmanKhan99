@@ -1,5 +1,6 @@
-### Hi there 👋, I am Tania Rahman Khan
 ![](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/243385579_593700828451087_8036921094460402945_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGeE34dpD7Nl2wiDKg5zfKAbv1ANKdiIaJu_UA0p2IhourUE1K8Hz94uSyInnLjTZg004gPuP7NlgiwFXrSAYuN&_nc_ohc=WvaVQNTVA7AAX9h3NIC&_nc_ht=scontent.fdac110-1.fna&oh=00_AfDEV7H28VnWiiyxoMnxftzjcJqPOrD1PVKeK90UaDsmKw&oe=6444C162)
+
+### Hi there 👋, I am Tania Rahman Khan
 
 Dedicated student at BRAC University with a clear career goal to work in the Software industry. 
 
