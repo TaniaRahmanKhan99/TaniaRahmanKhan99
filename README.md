@@ -32,7 +32,7 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=TaniaRahmanKhan99&theme=default" alt="TaniaRahmanKhan99" /></p>
+<!--  <p><img align="center" src="https://streak-stats.demolab.com/?user=TaniaRahmanKhan99&theme=default" alt="TaniaRahmanKhan99" /></p> -->
 
 <!--
   github-readme-stats (stats card + top languages) is intentionally left out.
