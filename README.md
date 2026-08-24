@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniarahmankhan99&label=Profile%20views&color=0e75b6&style=flat" alt="taniarahmankhan99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taniarahmankhan99" alt="taniarahmankhan99" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taniarahmankhan99" alt="taniarahmankhan99" /></a> </p> -->
 
 - 🔭 I’m currently working on **Third Party Software Scenario Testing for Transsion Devices**
 
