@@ -32,6 +32,9 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TaniaRahmanKhan99&theme=dark)](https://git.io/streak-stats)
+
 <!--  <p><img align="center" src="https://streak-stats.demolab.com/?user=TaniaRahmanKhan99&theme=default" alt="TaniaRahmanKhan99" /></p> -->
 
 <!--
